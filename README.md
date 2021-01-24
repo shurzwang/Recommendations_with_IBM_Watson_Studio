@@ -21,6 +21,9 @@
 
 This project is to look at the interactions that users have with articles on the IBM Watson Studio platform.
 
+![Cat Page1](screenshot/Articles.png)
+
+
 The recommender system can make recommendations in a number of ways:
 1. Rank Based Recommendations
 > - To get started in building recommendations, first find the most popular articles simply based on the most interactions. Since there are no ratings for any of the articles, it is easy to assume the articles with the most interactions are the most popular. These are then the articles we might recommend to new users (or anyone depending on what we know about them).
@@ -33,9 +36,8 @@ The recommender system can make recommendations in a number of ways:
 
 You can run the Juypter notebook file as attached
 
-## Results<a name="results"></a>
 
-![Cat Page1](screenshot/Articles.png)
+## Results<a name="results"></a>
 
 ![Cat Page1](screenshot/AccLatentFea1.png)
 
