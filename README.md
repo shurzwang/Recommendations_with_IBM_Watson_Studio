@@ -37,11 +37,11 @@ You can run the Juypter notebook file as attached
 
 The site can be accessed when [demo server](http://maxcn.asuscomm.com:3001) started 
 
-![Cat Page1](Screenshots/Articles.png)
+![Cat Page1](screenshot/Articles.png)
 
-![Cat Page1](Screenshots/AccLatentFea1.png)
+![Cat Page1](screenshot/AccLatentFea1.png)
 
-![Cat Page2](Screenshots/AccLatentFea2.png)
+![Cat Page2](screenshot/AccLatentFea2.png)
 
 ## Licensing, Authors, Acknowledgements<a name="Acknowledgements"></a>
 Thanks to [IBM Watson Studio](https://dataplatform.cloud.ibm.com/) for the data and [Udacity](https://www.udacity.com/) provided this topic. 
