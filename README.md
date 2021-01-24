@@ -35,8 +35,6 @@ You can run the Juypter notebook file as attached
 
 ## Results<a name="results"></a>
 
-The site can be accessed when [demo server](http://maxcn.asuscomm.com:3001) started 
-
 ![Cat Page1](screenshot/Articles.png)
 
 ![Cat Page1](screenshot/AccLatentFea1.png)
